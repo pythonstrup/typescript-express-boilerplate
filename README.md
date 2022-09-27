@@ -3,7 +3,3 @@
 <img src="./docs/img/dir.PNG">
 
 <br/>
-
-# ESLint 설정
-
-- airbnb-base
